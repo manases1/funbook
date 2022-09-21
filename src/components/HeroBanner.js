@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import { Box, Stack, Typography } from '@mui/material';
 
-const HeroBanner = () => {
-  return (
-    <div>HeroBanner</div>
-  )
-}
+import HeroBannerImage from '../assets/images/banner.png';
 
-export default HeroBanner
+const HeroBanner = () => (
+  <Box>
+    Fitness club
+  </Box>
+);
+
+export default HeroBanner;
