@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const SearchExercises = () => {
+const SearchExercises = () => {
   return (
     <div>SearchExercises</div>
   )
 }
+
+export default SearchExercises

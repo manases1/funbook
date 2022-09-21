@@ -1,7 +1,6 @@
 import React from 'react';
 import { Stack } from '@mui/system';
 import { Link } from 'react-router-dom';
-import './Navbar.css';
 
 import Logo from '../assets/images/Logo.png';
 
