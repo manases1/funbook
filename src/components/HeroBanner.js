@@ -10,7 +10,7 @@ const HeroBanner = () => (
       Sweat, Cry <br />
       And Repeat
     </Typography>
-    <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
+    <Typography fontSize="22px" fontFamily="Italic" lineHeight="35px">
       Check out the most effective exercises personalized to you
     </Typography>
     <Stack>
