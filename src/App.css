@@ -85,6 +85,10 @@ body {
   .exercise-card img {
     height: 326px;
   }
+
+  .exercise-card button:hover {
+    background-color: black;
+  }
   
   .bodyPart-card {
     transform: scale(1, 1);
