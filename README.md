@@ -15,3 +15,7 @@ As a user, I want to be able to easily navigate the different challenges and see
 ## Post MVP Stretch Goals
 As a user, I would like to be able to search for workouts by name so that I can more easily find a workout and view its details.
 As a user, I would like to filter the challenges by difficulty, so that I can more easily select the challenges based on the type of workout I'm interested in doing.
+
+# Site deployment
+
+https://manasesworkbook.netlify.app/
